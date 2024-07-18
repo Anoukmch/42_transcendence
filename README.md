@@ -1,4 +1,7 @@
-# transcendence
+# 42_transcendence
+
+![badge_transcendence_big](https://github.com/user-attachments/assets/52678d87-2a40-42ea-a755-ee04e442f241)
+
 Pong game as single-page web application 
 
 FIXME: Remove debug template html files in ./backend/transc/*/templates/*
